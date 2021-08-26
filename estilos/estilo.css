@@ -2,17 +2,39 @@
     color:chocolate;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: #fddde2;
-    margin: 50px;
+    margin: 0;
+    padding: 0;
     text-align: center;
     font-size: 80px;
     
 }
 
-.subt{
+.logo{
+    margin: 0px;
+
+
+}
+
+.subt ul{
+    position: absolute;
+    word-spacing: 50px;
+    margin: 0;
+    list-style: nome;
+    display: inline;
+
+}
+.subt li{
+    position: relative;
+    list-style: nome;
     color:crimson;
     font-family: Arial, Helvetica, sans-serif;
-    margin: 50px
-    ;
+    margin: 0;
+    cursor: pointer;
+    display: inline;
+
+    
+
+    
 
 }
 .rodapé{
@@ -20,6 +42,7 @@
     font-size: medium;
     color: saddlebrown;
     text-align: right;
+    line-height: 600px;
 }
 
 
