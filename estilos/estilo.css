@@ -8,9 +8,9 @@
     font-size: 80px;
     
 }
-
 .logo{
     margin: 0px;
+   
 
 
 }
@@ -21,6 +21,8 @@
     margin: 0;
     list-style: nome;
     display: inline;
+    padding-top: 30px;
+    
 
 }
 .subt li{
@@ -28,9 +30,10 @@
     list-style: nome;
     color:crimson;
     font-family: Arial, Helvetica, sans-serif;
-    margin: 0;
+    margin: 10px;
     cursor: pointer;
     display: inline;
+    padding: 50px;
 
     
 
